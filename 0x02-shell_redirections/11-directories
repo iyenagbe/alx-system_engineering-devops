@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepyh 1 -type d | wc -l
+find . -mindepyh 1 -type d | wc -1
