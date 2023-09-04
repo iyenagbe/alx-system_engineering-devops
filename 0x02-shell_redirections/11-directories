@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -type d -path . | wc -l 
+find . -mindepyh 1 -type d | wc -l
