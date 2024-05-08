@@ -4,7 +4,7 @@ By Iyebhora Samuel (sammykingx)
 
 
 
-31st January 2023, we experienced server outage on all our server infrastructure which resulted in our clients inability to use our services and we sincerely apologize for the financial loss our clients have incurred during this period.
+31st January 2024, we experienced server outage on all our server infrastructure which resulted in our clients inability to use our services and we sincerely apologize for the financial loss our clients have incurred during this period.
 
 Issue Summary
 
